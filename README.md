@@ -6,7 +6,7 @@
 
 I’m interested in games, programing and what so ever things related to puzzles.<br>
 I’m currently learning about Python and GameMaker Language.<br>
-How to reach me: [@Lk0gustavo_](url) on instagram.
+Contact with me by [@Linikker](https://instagram.com/linikker_?igshid=YTQwZjQ0NmI0OA==) on instagram.
 
 <!---
 Linikker/Linikker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
