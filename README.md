@@ -1,7 +1,9 @@
+## Hello there, I’m Linikker.
+
 <p align="center"> 
   <img alt="" src="https://cdn.80.lv/api/upload/post/4699/5d2cc879b019d.gif">
 </p>
-## Hello there, I’m Linikker.
+
 I’m interested in games, programing and what so ever things related to puzzles<br>
 I’m currently learning about Python and GameMaker Language.<br>
 How to reach me: [@Lk0gustavo_](url) on instagram.
