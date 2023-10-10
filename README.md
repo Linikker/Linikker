@@ -1,5 +1,5 @@
 ## Hello there, I’m @Linikker.
-I’m interested in programing, games and what so ever things related to puzzles<br>
+I’m interested in games, programing and what so ever things related to puzzles<br>
 I’m currently learning about Python and GameMaker Language.<br>
 How to reach me: [@Lk0gustavo_](url) on instagram.
 
