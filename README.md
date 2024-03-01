@@ -5,7 +5,7 @@
 </p>
 
 I’m interested in games, programing and what so ever things related to puzzles.<br>
-I’m currently learning about Python and GameMaker Language.<br>
+Currently studying Computer Science at UNIP - Universidade Paulista.<br>
 Contact with me by [@Linikker](https://instagram.com/linikker_?igshid=YTQwZjQ0NmI0OA==) on instagram.
 
 <!---
