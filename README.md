@@ -1,4 +1,4 @@
-## Hello there, I’m Linikker.
+## Hello there, I’m Gustavo Liniker.
 
 <p align="center"> 
   <img alt="" src="https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif">
