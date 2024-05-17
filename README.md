@@ -7,7 +7,7 @@ Currently studying Computer Science at UNIP - Universidade Paulista.<br>
 
 
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linikker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
