@@ -11,10 +11,9 @@ Currently studying Computer Science at UNIP - Universidade Paulista.<br>
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linikker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linikker&layout=compact&langs_count=7&theme=tokyonight"/>
 <img align="right" height="200em" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linikker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 ## My Languages
 
 <div align: center">
