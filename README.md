@@ -57,7 +57,7 @@
 ### ✨ Fun Fact
 <div align="center">
   
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “If at first you don’t succeed; call it version 1.0.” – XIX' developer
 
 </div>   
 
