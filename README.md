@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linikker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linikker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2)
 
 </div>
 
