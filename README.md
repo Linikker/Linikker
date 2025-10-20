@@ -27,6 +27,13 @@
 
 ---
 
+### 🧭 Current Focus
+- 🔹 Improving my understanding of software architecture  
+- 🔹 Building useful and creative projects in Java and Python  
+- 🔹 Learning more about frontend frameworks and backend APIs  
+
+---
+
 ### 🧩 My Languages & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
@@ -35,21 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
-</p>
-
----
-
-### 📬 Contact Me
-<p align="center">
-  <a href="https://www.instagram.com/yourinstagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -67,11 +59,15 @@
 
 ---
 
-### 🧭 Current Focus
-- 🔹 Improving my understanding of software architecture  
-- 🔹 Building useful and creative projects in Java and Python  
-- 🔹 Learning more about frontend frameworks and backend APIs  
-
----
-
-⭐️ From [Gustavo Liniker](https://github.com/yourusername)
+### 📬 Contact Me
+<p>
+  <a href="https://www.instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
