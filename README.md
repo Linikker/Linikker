@@ -13,7 +13,7 @@
 - 💻 Always exploring new technologies and improving my programming skills  
 - 🎮 Gamer at heart — I love strategy, open-world, and cooperative games  
 - 🚀 Working on academic and personal projects using Java, Python, and web technologies  
-- 🌱 Currently learning **React** and expanding my **backend** knowledge  
+- 🌱 Currently learning **React** and expanding my **front** and **backend** knowledge  
 
 ---
 
