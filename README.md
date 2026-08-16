@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=linikker&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=linikker&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=linikker&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=linikker&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=linikker&theme=tokyonight&hide_border=true"/>
 
